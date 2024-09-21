@@ -1,0 +1,17 @@
+{
+    "helloWorld" : "Hello World",
+    "@helloWorld" : {
+        "description" : "This is for entry level progrmmers greeting."
+        },
+    "signIn" : "Sign In",
+    "heading" : "Hotstar",
+    "emailHint" : "Enter your email",
+    "passwordHint" : "Enter your password",
+    "forgetPass" : "Forget Password?",
+    "btnLogin" : "Login",
+    "txtNoAcc" : "Don't have an account?",
+    "txtSignUp" : "Sign Up with",
+    "google" : "Google",
+    "facebook" : "Facebook",
+    "twitter" : "Twitter"
+}

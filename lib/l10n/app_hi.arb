@@ -1,0 +1,17 @@
+{
+    "helloWorld" : "हॅलो वर्ल्ड",
+    "@helloWorld" : {
+        "description" : "This is for entry level progrmmers greeting."
+        },
+    "signIn" : "साइन इन करें",
+    "heading" : "हॉटस्टार",
+    "emailHint" : "अपना ईमेल दर्ज करें",
+    "passwordHint" : "अपना पासवर्ड दर्ज करें",
+    "forgetPass" : "पासवर्ड भूल गए?",
+    "btnLogin" : "लॉगिन",
+    "txtNoAcc" : "कोई खाता नहीं है?",
+    "txtSignUp" : "इसके साथ साइन अप करें",
+    "google" : "गूगल",
+    "facebook" : "फेसबुक",
+    "twitter" : "ट्विटर"
+}
