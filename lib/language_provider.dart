@@ -7,11 +7,11 @@ class LanguageProvider extends ChangeNotifier {
       'locale': 'en',
     },
     {
-      'name': 'Hindi',
+      'name': 'हिंदी',
       'locale': 'hi',
     },
     {
-      'name': 'Spanish',
+      'name': 'Español',
       'locale': 'es',
     },
   ];
